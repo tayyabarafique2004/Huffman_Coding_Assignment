@@ -1,0 +1,4 @@
+﻿  huffman.cpp
+C:\Users\hp\source\repos\HufmanCodingAssignment\HufmanCodingAssignment\huffman.cpp(181,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hp\source\repos\HufmanCodingAssignment\HufmanCodingAssignment\huffman.cpp(182,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HufmanCodingAssignment.vcxproj -> C:\Users\hp\source\repos\HufmanCodingAssignment\x64\Debug\HufmanCodingAssignment.exe
